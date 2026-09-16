@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Negin 👋
 
-<!--
-**jewelmoradi/jewelmoradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering graduate from Shiraz University of Technology, preparing to pursue an M.Sc. in Artificial Intelligence.
 
-Here are some ideas to get you started:
+I'm particularly interested in AI, computer vision, and practical machine learning applications. I enjoy working with data, experimenting with models, and turning AI ideas into usable applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently
+
+Preparing for my M.Sc. in Artificial Intelligence and continuing to build my technical portfolio through academic and personal projects.
+
+### 🧠 Interests
+
+- Artificial Intelligence
+- Computer Vision
+- Machine Learning & Deep Learning
+- Vision-Language Models
+- Data & Dataset Analysis
+- AI Applications
+
+### 🛠️ Technologies
+
+**Languages:** Python · C++ · Java · C# · SQL
+
+**AI / ML:** PyTorch · Computer Vision · Machine Learning · Deep Learning
+
+**Development:** Flutter · Android · Git
+
+### 📌 Featured Projects
+
+More projects coming as I continue building and learning.
