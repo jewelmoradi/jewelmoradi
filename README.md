@@ -1,7 +1,6 @@
 # Hi, I'm Negin 👋🏻
 
-I'm a Computer Engineering graduate from Shiraz University of Technology,
-preparing to pursue an M.Sc. in Artificial Intelligence.
+I'm a Computer Engineering graduate from Shiraz University of Technology and an M.Sc. student in Artificial Intelligence at Sharif University of Technology.
 
 I'm particularly interested in AI, computer vision, and practical machine
 learning applications. I enjoy experimenting with models and datasets,
